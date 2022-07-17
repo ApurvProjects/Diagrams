@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T23:33:56.507Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="GyxYiNVvSXF7CJJnzqBE" version="20.1.1" type="github"><diagram id="FHZckZIoKIEDhqi4HK1J" name="Page-1">3Vpbc5s6EP41fjwZQIDtx9hO006TE0/y0OapI4MANYAYIcfm/PojgbhZJHETE3DxTMKuJC7f7n67kpiAZbS/pjAJbomLwomhufsJWE0MQ9dnNv8nNFmhmQKp8Cl2Zada8YD/Q1KpSe0WuyhtdWSEhAwnbaVD4hg5rKWDlJJdu5tHwvZdE+gjRfHgwFDV/sAuCwrtzNJq/VeE/aC8s67JlgiWnaUiDaBLdg0VuJqAJSWEFWfRfolCAV6JSzHuywut1YNRFLNjBjzd3/xYfH1ebhzLYvAxo99Z8g+Ql3mG4Va+sXxalpUQ7ALM0EMCHSHvuJknYBGwKOSSzk9hmhTAe3iP+L0WHg7DJQkJzYcDzxI/rk8ZJU+o0WLnhxhBYtbQF4e80h2/MWbCezjmYKG+dfkGiDK0b6gkCteIRIjRjHeRraVBsra4a5i39L6gYdpKCaVL+dWVa9T5iQT+D4xgmIoR7mIurymKcIoUg1CyjV0B9Uog8oZ5BC6Y+/NliP2Y6zaEMRIJu0kFLV7xFMjqdhtay1Sxtc0ObA1z3he2hoLtMiRb92OgHmL3Isg9gFrJb4EKpn05rK6SBHI5bUqRUBYQn8QwvKq1izbAdZ8bQhIJ62/EWCZzANwy0gb9RSxTsqUOes0JZOKA1EfsNTYs+ol3edUyFIWQ4ed2iji9684U171HLkIR192jHaSuuCvjfx4YoSpNfIJJuCVo9lOOz4VHIVxYpbjaNxtXmZRcmAb5fT/Hrrp+asPmQy8phVmjQ0JwzNLGlddC0Yhk0I5kYB1k7Df6T03twKmKJ6hdrHqVD3id4nS3ZIO5uxjaZZIoTpY+IeYEpQdtWYhjnuLLWkxTkzv/fRGPs/ApdDGq22ISo64qoRpwWFfkR9OZtAYT38ANCtckxQyTFiMfUjUTrl4RusMfCNG2k4sXkBHAiU/KEgGtqwDilV4iGqO9L4riC7hLzQuKCnf+5ojnWXCxOGv3inKsfzkhzoPhFPnDPHC6jnrH7sgedm/JAwzCVHvMftbcxKXHkpn4eU1TQihZ6r3s9n5CA0cS2nRUiUo3h7So3rRnZd1zs6g5KosCJQlcrr9xxTVkvPDIFHN/cIroQjTznM4pojNDG+9E875DJtQ7Zn5dE7/emNAaDxPqR8ZNHSqPzbaTx415ZNzMRxU3+lQJnDvPQzQ9F4Ls32DWqAxmjCgEjy1G2iGoDx6C4ypGyjnTUBY1/gZWNcZFqx3ro9RFFMe+WPxA9Bk76vLHWdQkYG6NrCaZjYcQxxY91pHRY48qeCwleNaURESsi6TifrFYRlzh1OFGFKtXvQWUhWau2RVQM2MD8n2gEwSUZY2syLcV+EG+cLuGlInnvoX0CbFeqczzPMPppDLX3thWT8hb1nxY5NVafLlNGb84/duyhj4f2MnLNcUG1v9yhvGwA/P11yFTyqfMfmbHFlajSg2V5zV3mMTG0qDz1XcVAdU0qO8FvWMtPa5ZkbqV2M5CNySDYX521jnInrZzUMf3B5/Ki3MF9nyrVg2vP0W3tYE6CNSHOcg2zAtr4Cw0HQ9tjW0xp9wCP7PJi65mKPmxg1ZulhNPsJb4YO8sKeuwbLbnA5fNhkpaa5hFKAf7vMtm3W5nB9BbeuBi/WVn8WlG/X0suPof</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-17T23:40:09.081Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="RduWvA8VxcRAegdC5CUX" version="20.1.1" type="github">
+  <diagram id="FHZckZIoKIEDhqi4HK1J" name="Page-1">
+    <mxGraphModel dx="1186" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kRLWBHvCbc55taYyrKtp-24" value="On Premise" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=right;" parent="1" vertex="1">
+          <mxGeometry x="310" y="30" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-22" value="Cloud" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="30" y="30" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-17" value="Offers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kRLWBHvCbc55taYyrKtp-4" target="kRLWBHvCbc55taYyrKtp-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-4" value="Ordering Service" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r1P8WZlO2zgzEe5l8SVn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kRLWBHvCbc55taYyrKtp-5" target="kRLWBHvCbc55taYyrKtp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-5" value="Promotions and Discounts Service" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="195" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-6" value="3rd Party Marketing Service" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="330" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
