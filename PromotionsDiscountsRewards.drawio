@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T22:41:35.759Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" version="20.1.1" etag="uPWApzSelSYrZQPXktKC" type="github"><diagram id="FHZckZIoKIEDhqi4HK1J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-17T22:49:36.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="1GLK27N-YSn3bpQVV2UV" version="20.1.1" type="github">
+  <diagram id="FHZckZIoKIEDhqi4HK1J" name="Page-1">
+    <mxGraphModel dx="1186" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kRLWBHvCbc55taYyrKtp-2" value="Mobile App" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-3" value="API Gateway" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-4" value="Ordering Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="395" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-5" value="Promotions and Discounts Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-6" value="3rd Party Marketing Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-7" value="Customer Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="395" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-8" value="3rd Party Loyalty Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-9" value="Store Systems" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="395" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-10" value="Kitchen" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="395" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kRLWBHvCbc55taYyrKtp-11" value="Store Point of Sale" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
