@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T23:55:29.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" version="20.1.1" etag="cAZZXhsIxuKr2O5loMQg" type="github"><diagram id="mqZYfI5A7cpsx_hj7aoj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-18T00:24:51.617Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="tfPNuP_QbXNiJxu2YArL" version="20.1.1" type="github">
+  <diagram id="mqZYfI5A7cpsx_hj7aoj" name="Page-1">
+    <mxGraphModel dx="1186" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fillOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="190" y="10" width="490" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-11" value="Slash Command" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rNNLTOzkvaIIMH2zCXVB-1" target="rNNLTOzkvaIIMH2zCXVB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-1" value="Slack" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-128.png;imageBackground=default;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rNNLTOzkvaIIMH2zCXVB-6" target="rNNLTOzkvaIIMH2zCXVB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-6" value="Amazon API Gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rNNLTOzkvaIIMH2zCXVB-7" target="rNNLTOzkvaIIMH2zCXVB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-16" value="Slack Notification" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rNNLTOzkvaIIMH2zCXVB-7" target="rNNLTOzkvaIIMH2zCXVB-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="30" />
+              <mxPoint x="85" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-7" value="AWS Lambda" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-8" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rNNLTOzkvaIIMH2zCXVB-3" target="rNNLTOzkvaIIMH2zCXVB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
