@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T23:44:20.231Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="iGmDQOtrZgI-0ZJZpsi_" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T00:03:30.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="y09TzagTllG3l86PjeY_" version="20.1.1" type="github">
   <diagram id="FHZckZIoKIEDhqi4HK1J" name="Page-1">
     <mxGraphModel dx="1186" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,16 +16,16 @@
         <mxCell id="kRLWBHvCbc55taYyrKtp-17" value="Offers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kRLWBHvCbc55taYyrKtp-4" target="kRLWBHvCbc55taYyrKtp-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kRLWBHvCbc55taYyrKtp-4" value="Ordering Service" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="kRLWBHvCbc55taYyrKtp-4" value="Ordering Service" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#36C5F0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r1P8WZlO2zgzEe5l8SVn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kRLWBHvCbc55taYyrKtp-5" target="kRLWBHvCbc55taYyrKtp-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kRLWBHvCbc55taYyrKtp-5" value="Promotions and Discounts Service" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="kRLWBHvCbc55taYyrKtp-5" value="Promotions and Discounts Service" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2EB67D;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="195" y="40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kRLWBHvCbc55taYyrKtp-6" value="3rd Party Marketing Service" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="kRLWBHvCbc55taYyrKtp-6" value="3rd Party Marketing Service" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ECB22E;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="330" y="40" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
