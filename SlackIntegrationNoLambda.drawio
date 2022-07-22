@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T19:54:07.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="oP5zh04GRyvi3ex9lDKS" version="20.1.3" type="github"><diagram id="mqZYfI5A7cpsx_hj7aoj" name="Page-1">7VhZb+IwEP41PBbloMAr0FPqJbHatk+VG5vEWyeOnOHqr9+ZxCGEQMV26fHQIhXP54k9nplvxqTlj+LFuWFpdK25UC3P4YuWf9LyPNftd/GLkGWB9B2nAEIjuVWqgLF8FRYs1aaSi6ymCForkGkdDHSSiABqGDNGz+tqE63qu6YsFA1gHDDVRO8lh8ie4tip8Ashw6jc2S3PF7NS2QJZxLier0H+acsfGa2hGMWLkVDkvNIvxXNnO2ZXhhmRwD4PmJubq1+3ry8zdnl5feG9jh5+D4/8YpUZU1N7YGssLEsPGD1NuKBFnJY/nEcSxDhlAc3OMeaIRRArlFwcTqRStzgrgeJNzvCHTUOt7TNhQCzWIGv4udCxALNEFTtb+nBZT455FZFu12LRWjS8jgWZzYJwtXLlKBxYX/2D31y34bixYlmE0EjHMUt4w4+CY2JZURuIdKgTpk4rdFj3dKVzpXVq/ftHACwtS9gUdN37YiHhYW38SEu1j610srAr58LSCjujk+mpCcRbPrB0ZCYU8IaerQB0/jdjbYRiIGd14h0+ctsCF7w0woV0TWko47xCrLuZ8lZiiRgoGSaIAYVnhV6xZ6HudCZBapp91gA6RgVFE0PcK8wDPdJKm3wvf5L/oUq+2SBLi0pG4WGlMJELSo2hteckAqASOCBveGcBT7y2xCI4kZhCph3gjt4ZZ8Dwi/AMvzMdSKaOYsElO6IihtixS/50n3InPAVkk+BP2Sw8cr1+O03CcsvKcNyciwmbKjgMuY83yO012d3bQu7eh3HbaSTDJ3D3/Tzs7snD3rfiYbfBw0HMXpExnjO4u8T/5wzEnC2bxHwREESlo6egZCJGq+5P4EQnsMYu/JyRYcPQMC5FNZfohEKXgdEvYhsdqZttW4hjpV/FehfvY8l5nhqb5WJVEJgFArRJmHo6bOuzdC6bP255zjIr6ZmMGi8x9sQnyRaweBHS1azN5lmnnRrNpwFcBmTiMDXFoK7DUvkUWucfpnt3Ntt3k+H9LQx33Q+jePOa860p3tuT4v1vRXG3yXHba50bDXKCpMi58hU3pQQP+FBdj0h8LK9HJFSXpVz6/9vSviF0Dx3C/NGBMVRKVwqplglkayvfEVBRtrNBWX/jt8WGOl0ldmrjoNi+yqTVOd6fXL1m/7gfI3DF4mfOfrrGZ3cNVfj9IA2j47yzYTgf1TD6u28rp6NmM/nJtg/ONhF4B/rx0f1uqeb6X9IQ7auD6nXB49rMoV8d+Hs2Q/+T7jMoVi/iig5Vvc70T/8C</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-22T22:39:50.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="Oi6-ncvqsDYPjqCLsFJI" version="20.1.3" type="github">
+  <diagram id="mqZYfI5A7cpsx_hj7aoj" name="Page-1">
+    <mxGraphModel dx="1186" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillOpacity=100;" parent="1" vertex="1">
+          <mxGeometry x="20" y="10" width="660" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-11" value="Slash &lt;br&gt;Command" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rNNLTOzkvaIIMH2zCXVB-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-1" value="Slack" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-128.png;imageBackground=default;" parent="1" vertex="1">
+          <mxGeometry x="60" y="84" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rNNLTOzkvaIIMH2zCXVB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rNNLTOzkvaIIMH2zCXVB-3" target="rNNLTOzkvaIIMH2zCXVB-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6AsbL1gKHUAj45fKUSoM-2" value="Slash&lt;br&gt;Command" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="124" as="sourcePoint" />
+            <mxPoint x="410" y="124" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6AsbL1gKHUAj45fKUSoM-3" value="Route 53" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_53;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="6AsbL1gKHUAj45fKUSoM-6" value="Instance&lt;br&gt;Actions" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6AsbL1gKHUAj45fKUSoM-4" target="6AsbL1gKHUAj45fKUSoM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6AsbL1gKHUAj45fKUSoM-4" value="Application Instance" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="84" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="6AsbL1gKHUAj45fKUSoM-5" value="AWS SDK" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.external_sdk;" vertex="1" parent="1">
+          <mxGeometry x="560" y="84" width="68" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
